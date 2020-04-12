@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vyNDCqKdN5YZlUu5Ztg0zB22EnyD2pp6BUG41fhokhHPZ+V4YAPNZVg9WIthGeLEIohu1VBHWoARLRFBHXIz2Q==",
+  "dgSpecHash": "nGXG2crbDJJ7HZkujxP7CBNllqRJo+tTq/yEGq0xIqQxfHeN6/p+96cyHqkfL1brhBE0H8FdBn1+HT7iGlPuGw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admiral-PC\\source\\repos\\VocabularyNetCore\\VocabularyNetCore\\VocabularyNetCore.csproj",
   "expectedPackageFiles": [
@@ -24,6 +24,7 @@
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.3\\microsoft.entityframeworkcore.design.3.1.3.nupkg.sha512",
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.3\\microsoft.entityframeworkcore.relational.3.1.3.nupkg.sha512",
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.3\\microsoft.entityframeworkcore.sqlserver.3.1.3.nupkg.sha512",
+    "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.3\\microsoft.entityframeworkcore.tools.3.1.3.nupkg.sha512",
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.3\\microsoft.extensions.caching.abstractions.3.1.3.nupkg.sha512",
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.3\\microsoft.extensions.caching.memory.3.1.3.nupkg.sha512",
     "C:\\Users\\Admiral-PC\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.3\\microsoft.extensions.configuration.3.1.3.nupkg.sha512",
