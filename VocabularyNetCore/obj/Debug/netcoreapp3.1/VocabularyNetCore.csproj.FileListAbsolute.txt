@@ -261,7 +261,6 @@ C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.csprojAssemblyReference.cache
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\staticwebassets\VocabularyNetCore.StaticWebAssets.Manifest.cache
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\staticwebassets\VocabularyNetCore.StaticWebAssets.xml
-C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.MvcApplicationPartsAssemblyInfo.cache
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.RazorAssemblyInfo.cache
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.RazorAssemblyInfo.cs
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.AssemblyInfoInputs.cache
@@ -284,3 +283,11 @@ C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.csproj.CopyComplete
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.dll
 C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.pdb
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\VocabularyTrainerAspNet-master\VocabularyTrainerAspNet\VocabularyNetCore\obj\Debug\netcoreapp3.1\VocabularyNetCore.MvcApplicationPartsAssemblyInfo.cache

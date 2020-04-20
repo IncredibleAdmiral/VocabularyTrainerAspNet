@@ -1,7 +1,13 @@
-﻿
+﻿@using VocabularyNetCore.Models.ApproximatingСlasses;
 @{
+
     ViewData["Title"] = "Index";
+    VocabularyContext context = new VocabularyContext();
+   var Words = context.ExamplesTable.ToList();
 }
 
 <h1>Тут ничего нет, но будет. Мамой клянусь, Ара</h1>
-
+@foreach (var i in Words)
+{
+    <p>@i.Example</p>
+}

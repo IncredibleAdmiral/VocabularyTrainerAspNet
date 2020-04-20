@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
@@ -37,7 +38,7 @@ namespace VocabularyNetCore.Models.ApproximatingСlasses
                 entity.HasKey(e => new { e.IdWord, e.IdExample })
                     .HasName("PK_ConnectingTable");
 
-                entity.Property(e => e.IdWord).ValueGeneratedOnAdd();
+                entity.Property(e => e.IdWord).ValueGeneratedNever();
 
                 entity.Property(e => e.ContextualTranslation)
                     .IsRequired()
